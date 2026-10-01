@@ -1,0 +1,25 @@
+date,merchant,amount,category
+2026-07-01,Streambox,12.99,Entertainment
+2026-08-01,Streambox,12.99,Entertainment
+2026-09-01,Streambox,12.99,Entertainment
+2026-07-05,Bright Mobile,18.00,Bills
+2026-08-05,Bright Mobile,18.00,Bills
+2026-09-05,Bright Mobile,18.00,Bills
+2026-07-10,Fresh Market,47.35,Food
+2026-08-12,Fresh Market,52.80,Food
+2026-09-10,Fresh Market,43.20,Food
+2026-09-12,Café Willow,8.50,Food
+2026-09-12,Café Willow,8.50,Food
+2026-07-15,City Rail,36.40,Transport
+2026-08-15,City Rail,41.20,Transport
+2026-09-15,City Rail,38.60,Transport
+2026-09-18,Bookshop Corner,24.00,Shopping
+2026-09-20,Bookshop Corner,-12.00,Shopping
+2026-07-21,North Energy,65.00,Bills
+2026-08-21,North Energy,68.00,Bills
+2026-09-21,North Energy,67.00,Bills
+2026-09-22,Community Cinema,16.00,Entertainment
+2026-09-23,Local Pharmacy,9.45,Health
+2026-09-25,Clothing Shop,54.00,Shopping
+2026-08-28,Café Willow,6.20,Food
+2026-07-28,Café Willow,7.10,Food
